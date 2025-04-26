@@ -12,7 +12,7 @@ https://github.com/ugapanyuk/courses_current/wiki/COURSE_TMO_SPRING_2025/
 - ЛР№4 - [задание](https://github.com/ugapanyuk/courses_current/wiki/LAB_TMO_TREES) | [решение](./lab04/)
 - ЛР№5 - [задание](https://github.com/ugapanyuk/courses_current/wiki/LAB_TMO_ENSEMBLES_1) | [решение](./lab05/)
 
-- ЛР№6 - [задание](https://github.com/ugapanyuk/courses_current/wiki/LAB_TMO_ENSEMBLES_2)
+- ЛР№6 - [задание](https://github.com/ugapanyuk/courses_current/wiki/LAB_TMO_ENSEMBLES_2) | [решение](./lab06/)
 
 ## Рубежные контроли
 
